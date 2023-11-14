@@ -1,1 +1,1 @@
-The objective: In order to assist judges in their decision-making process, it is imperative to incorporate AI technology into the field of law. However, due to the sensitive nature of this domain, placing trust in an AI model for such crucial decisions can be challenging. Therefore, my aim was to develop a highly reliable models that are grounded in real data sourced from court proceedings and actual judicial rulings using transformers.
+## The problem: 
