@@ -1,0 +1,1 @@
+# On-Automating-the-Legal-System-An-AI-based-Decision-Support-System-for-Judgements-Prediction
