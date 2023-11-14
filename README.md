@@ -1,1 +1,1 @@
-# On-Automating-the-Legal-System-An-AI-based-Decision-Support-System-for-Judgements-Prediction
+In order to assist judges in their decision-making process, it is imperative to incorporate AI technology into the field of law. However, due to the sensitive nature of this domain, placing trust in an AI model for such crucial decisions can be challenging. Therefore, our aim was to develop a highly reliable model that is grounded in real data sourced from court proceedings and actual judicial rulings.
